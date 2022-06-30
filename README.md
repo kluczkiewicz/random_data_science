@@ -1,2 +1,2 @@
 # my-projects
-My personal porftoflio for homemade projects. 
+My personal portfolio for homemade projects. 
